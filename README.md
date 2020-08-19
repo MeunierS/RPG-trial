@@ -42,3 +42,4 @@ v1.0 : /08/2020
 ## Credits
 
 [Open Classroom](https://openclassrooms.com/fr/courses/1455701-creer-un-mini-rpg-en-javascript-avec-canvas/1455880-mise-en-place-des-bases)
+[Tileset](https://pipoya.itch.io/pipoya-rpg-tileset-32x32)
